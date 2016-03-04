@@ -5,7 +5,6 @@ var adj = prompt('An adjective (beautiful, super, etc.)');
 var pastVerb = prompt('A past tense verb (ran, burped, etc.)');
 var wholeStory = prompt('Which story would you like?\na) Snacking\nb) Escaping\nc) Winning');
 
-
 switch (wholeStory) {
 
   case 'a' :
